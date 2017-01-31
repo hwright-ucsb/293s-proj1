@@ -39,17 +39,20 @@ public class Indexer {
            line = br.readLine();
            stuff = line.split("\t");
            addDoc(w,stuff[0],stuff[1],stuff[2]);
+           // System.out.println(i+" id: "+stuff[0]);
+           // System.out.println(i+" title: "+stuff[1]);
+           // System.out.println(i+" body: "+stuff[2]);
         }
 
         br.close();
         w.close();
 
         // 2. query
-        String querystr = args.length > 0 ? args[0] : "lucene";
+        String querystr = args.length > 0 ? args[0] : "mexican";
 
         // the first arg specifies the default field to use
         // when no field is explicitly specified in the query.
-        Query q = new QueryParser("body", analyzer).parse(querystr);
+        Query q = new QueryParser("title", analyzer).parse(querystr);
 
         // 3. search
         int hitsPerPage = 10;
@@ -63,7 +66,7 @@ public class Indexer {
         for(int i=0;i<hits.length;++i) {
             int docId = hits[i].doc;
             Document d = searcher.doc(docId);
-            System.out.println((i + 1) + ". " + d.get("docId") + "\t" + d.get("title"));
+            System.out.println((i + 1) + ". " + d.get("docID") + "\t" + d.get("title"));
         }
 
         // reader can only be closed when there
@@ -80,9 +83,9 @@ public class Indexer {
         // between the first and second tab -->  the title,
         // after the second tab --> the body of the document
         Document doc = new Document();
-        doc.add(new TextField("docID", docID, Field.Store.YES));
-        doc.add(new StringField("title", title, Field.Store.YES));
-        doc.add(new StringField("body", body, Field.Store.YES));
+        doc.add(new StringField("docID", docID, Field.Store.YES));
+        doc.add(new TextField("title", title, Field.Store.YES));
+        doc.add(new TextField("body", body, Field.Store.YES));
         w.addDocument(doc);
     }
 }
