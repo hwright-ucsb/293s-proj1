@@ -11,6 +11,7 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import java.io.IOException;
 import java.nio.file.*;
+import java.util.Scanner;
 
 public class QueryString {
     public static void main(String[] args) throws IOException, ParseException {
@@ -24,7 +25,24 @@ public class QueryString {
 
         // the first arg specifies the default field to use
         // when no field is explicitly specified in the query.
-        Query q = new QueryParser("title", analyzer).parse(querystr);
+        Scanner sc = new Scanner(System.in);
+        System.out.println("\nWhich field would you like to query? (Searches title by default.)");
+        System.out.println("\tEnter 1 for DOC ID");
+        System.out.println("\tEnter 2 for BODY");
+        System.out.println("\tEnter anything else for TITLE");
+
+        int fieldCode = sc.nextInt();
+        sc.nextLine();
+        Query q;
+        if(fieldCode==1){
+            q = new QueryParser("docID", analyzer).parse(querystr);
+        }
+        else if(fieldCode==2){
+            q = new QueryParser("body", analyzer).parse(querystr);
+        }
+        else{
+            q = new QueryParser("title",analyzer).parse(querystr);
+        }
 
         // 3. search
         int hitsPerPage = 10;
