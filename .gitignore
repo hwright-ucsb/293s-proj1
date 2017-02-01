@@ -1,2 +1,7 @@
 *.class
+NSFabs/
 .DS_Store
+lines-trec45.txt
+lines-trec45.txt.gz
+trec-disk4-5.xml
+*.lucene
