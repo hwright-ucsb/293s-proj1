@@ -33,13 +33,16 @@ public class Indexer {
         BufferedReader br = new BufferedReader(new FileReader("lines-trec45.txt"));
         String line;
         String[] stuff;
-        for(int i=0; i<100; i++){
-           line = br.readLine();
-           stuff = line.split("\t");
-           addDoc(w,stuff[0],stuff[1],stuff[2]);
-           // System.out.println(i+" id: "+stuff[0]);
-           // System.out.println(i+" title: "+stuff[1]);
-           // System.out.println(i+" body: "+stuff[2]);
+        while((line = br.readLine()) != null){
+            stuff = line.split("\t");
+            if(stuff.length == 1){
+                addDoc(w,stuff[0],"","");
+            }
+            else if(stuff.length == 2){
+                addDoc(w,stuff[0],stuff[1],"");
+            }else{
+                addDoc(w,stuff[0],stuff[1],stuff[2]); 
+            }
         }
 
         br.close();

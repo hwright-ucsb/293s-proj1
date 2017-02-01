@@ -8,5 +8,6 @@ make QueryString a=QUERY_STRING b=NUM_FILES_TO_USE_FROM_INDEXER
 
 #Example
 
+make
 make Indexer a=100
-make QueryString a=100 b=mexican
+make QueryString a=mexican b=100
