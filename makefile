@@ -7,7 +7,7 @@ Indexer:
 	java -cp .:./Resources/lucene-6.4.0/core/lucene-core-6.4.0.jar:./Resources/lucene-6.4.0/queryparser/lucene-queryparser-6.4.0.jar Indexer $(a)
 
 QueryString:
-	java -cp .:./Resources/lucene-6.4.0/core/lucene-core-6.4.0.jar:./Resources/lucene-6.4.0/queryparser/lucene-queryparser-6.4.0.jar QueryString $(a)
+	java -cp .:./Resources/lucene-6.4.0/core/lucene-core-6.4.0.jar:./Resources/lucene-6.4.0/queryparser/lucene-queryparser-6.4.0.jar QueryString $(a) $(b)
 
 Indexer.class: Indexer.java
 	javac -cp .:./Resources/lucene-6.4.0/core/lucene-core-6.4.0.jar:./Resources/lucene-6.4.0/queryparser/lucene-queryparser-6.4.0.jar Indexer.java
