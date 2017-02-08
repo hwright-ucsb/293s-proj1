@@ -1,0 +1,29 @@
+Our Indexer can be run with:
+
+make Indexer
+
+This will create a directory called index which holds our index;
+
+To run the batch query you can run:
+
+make QueryString > default.out
+or
+make QueryString > bm25.out
+
+after changing the simstring within the file to either default or bm25.
+The .eval files can be created from the .out files.
+
+
+
+
+1. Initial ms for queries: 42ms - 43ms per query. Map score is 0.1723. The relevancy scores can be seen in bm25_initial.eval and default_initial.eval.
+
+2. After stopword removal/stemming we went to 41ms - 42ms per batch query. This does not include the query line processing time/stopword removal time. Our map score increased to 0.2003. The relevancy scores can be seen in bm25_stop_and_stem.eval and default_stop_and_stem.eval.
+
+3. When differentiating title and body we got a lower map score:
+title: 0.0332 - results can be seen in default_title.eval and bm25_title.eval 
+body: 0.1971 - results can be seen in default_body.eval and bm25_body.eval 
+
+4. When using phrase querying, we had a significant drop in average precision (map). This makes sense because it seems unlikely that the user will always want to query for the entire phrase. The relevancy scores can be seen in bm25_conjunctive.eval and default_conjunctive.eval.
+
+

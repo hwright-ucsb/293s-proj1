@@ -1,0 +1,449 @@
+OLD: International Organized Crime
+NEW: Internat Organiz Crime 
+--
+OLD: Poliomyelitis and Post Polio
+NEW: Poliomyel Post Polio 
+--
+OLD: Hubble Telescope Achievements
+NEW: Hubbl Telescop Achievement 
+--
+OLD: Endangered Species  Mammals
+NEW: Endanger Speci Mammal 
+--
+OLD: Most Dangerous Vehicles
+NEW: Most Danger Vehicl 
+--
+OLD: African Civilian Deaths
+NEW: African Civilian Death 
+--
+OLD: New Hydroelectric Projects
+NEW: New Hydroelectr Project 
+--
+OLD: Implant Dentistry
+NEW: Implant Dentistri 
+--
+OLD: Rap and Crime
+NEW: Rap Crime 
+--
+OLD: Radio Waves and Brain Cancer
+NEW: Radio Wave Brain Cancer 
+--
+OLD: Industrial Espionage
+NEW: Industrial Espionag 
+--
+OLD: Hydroponics
+NEW: Hydropon 
+--
+OLD: Magnetic Levitation Maglev
+NEW: Magnet Levit Maglev 
+--
+OLD: Marine Vegetation
+NEW: Marin Veget 
+--
+OLD: Unexplained Highway Accidents
+NEW: Unexplain Highwai Accident 
+--
+OLD: Polygamy Polyandry Polygyny
+NEW: Polygami Polyandri Polygyni 
+--
+OLD: Unsolicited Faxes
+NEW: Unsolicit Fax 
+--
+OLD: Best Retirement Country
+NEW: Best Retir Countri 
+--
+OLD: New Fuel Sources
+NEW: New Fuel Sourc 
+--
+OLD: Undersea Fiber Optic Cable
+NEW: Undersea Fiber Optic Cabl 
+--
+OLD: Women in Parliaments
+NEW: Women Parliament 
+--
+OLD: International Art Crime
+NEW: Internat Art Crime 
+--
+OLD: Literary Journalistic Plagiarism
+NEW: Literari Journalist Plagiar 
+--
+OLD: Argentine British Relations
+NEW: Argentin British Relat 
+--
+OLD: Cult Lifestyles
+NEW: Cult Lifestyl 
+--
+OLD: Ferry Sinkings
+NEW: Ferri Sink 
+--
+OLD: Modern Slavery
+NEW: Modern Slaveri 
+--
+OLD: Pope Beatifications
+NEW: Pope Beatif 
+--
+OLD: Mexican Air Pollution
+NEW: Mexican Air Pollut 
+--
+OLD: Iran Iraq Cooperation
+NEW: Iran Iraq Cooper 
+--
+OLD: World Bank Criticism
+NEW: World Bank Critic 
+--
+OLD: Income Tax Evasion
+NEW: Income Tax Evasion 
+--
+OLD: Antibiotics Bacteria Disease
+NEW: Antibiot Bacteria Diseas 
+--
+OLD: Export Controls Cryptography
+NEW: Export Control Cryptographi 
+--
+OLD: Adoptive Biological Parents
+NEW: Adoptiv Biolog Parent 
+--
+OLD: Black Bear Attacks
+NEW: Black Bear Attack 
+--
+OLD: Viral Hepatitis
+NEW: Viral Hepat 
+--
+OLD: Risk of Aspirin
+NEW: Risk Aspirin 
+--
+OLD: Alzheimer s Drug Treatment
+NEW: Alzheimer  Drug Treatment 
+--
+OLD: Land Mine Ban
+NEW: Land Mine Ban 
+--
+OLD: Airport Security
+NEW: Airport Secur 
+--
+OLD: Diplomatic Expulsion
+NEW: Diplomat Expulsion 
+--
+OLD: Police Deaths
+NEW: Polic Death 
+--
+OLD: Abuses of E Mail
+NEW: Abuse E Mail 
+--
+OLD: Overseas Tobacco Sales
+NEW: Oversea Tobacco Sale 
+--
+OLD: Educational Standards
+NEW: Educat Standard 
+--
+OLD: Wildlife Extinction
+NEW: Wildlif Extinction 
+--
+OLD: Agoraphobia
+NEW: Agoraphobia 
+--
+OLD: Metabolism
+NEW: Metabol 
+--
+OLD: Health and Computer Terminals
+NEW: Health Comput Termin 
+--
+OLD: Falkland petroleum exploration
+NEW: Falkland petroleum explor 
+--
+OLD: British Chunnel impact
+NEW: British Chunnel impact 
+--
+OLD: Antarctica exploration
+NEW: Antarctica explor 
+--
+OLD: journalist risks
+NEW: journalist risk 
+--
+OLD: ocean remote sensing
+NEW: ocean remot sens 
+--
+OLD: postmenopausal estrogen Britain
+NEW: postmenopaus estrogen Britain 
+--
+OLD: territorial waters dispute
+NEW: territori water disput 
+--
+OLD: blood alcohol fatalities
+NEW: blood alcohol fatal 
+--
+OLD: mutual fund predictors
+NEW: mutual fund predictor 
+--
+OLD: drug legalization benefits
+NEW: drug legal benefit 
+--
+OLD: clothing sweatshops
+NEW: cloth sweatshop 
+--
+OLD: human smuggling
+NEW: human smuggl 
+--
+OLD: transportation tunnel disasters
+NEW: transport tunnel disast 
+--
+OLD: rabies
+NEW: rabi 
+--
+OLD: El Nino
+NEW: El Nino 
+--
+OLD: commercial cyanide uses
+NEW: commerci cyanid us 
+--
+OLD: piracy
+NEW: piraci 
+--
+OLD: in vitro fertilization
+NEW: vitro fertil 
+--
+OLD: anorexia nervosa bulimia
+NEW: anorexia nervosa bulimia 
+--
+OLD: food drug laws
+NEW: food drug law 
+--
+OLD: health insurance holistic
+NEW: health insur holist 
+--
+OLD: Native American casino
+NEW: Nativ American casino 
+--
+OLD: encryption equipment export
+NEW: encrypt equip export 
+--
+OLD: Nobel prize winners
+NEW: Nobel prize winner 
+--
+OLD: hydrogen energy
+NEW: hydrogen energi 
+--
+OLD: World Court
+NEW: World Court 
+--
+OLD: cigar smoking
+NEW: cigar smoke 
+--
+OLD: euro opposition
+NEW: euro opposit 
+--
+OLD: mainstreaming
+NEW: mainstream 
+--
+OLD: obesity medical treatment
+NEW: obes medic treatment 
+--
+OLD: alternative medicine
+NEW: altern medicin 
+--
+OLD: hydrogen fuel automobiles
+NEW: hydrogen fuel automobil 
+--
+OLD: mental illness drugs
+NEW: mental ill drug 
+--
+OLD: space station moon
+NEW: space station moon 
+--
+OLD: hybrid fuel cars
+NEW: hybrid fuel car 
+--
+OLD: teaching disabled children
+NEW: teach disabl children 
+--
+OLD: radioactive waste
+NEW: radioact wast 
+--
+OLD: organic soil enhancement
+NEW: organ soil enhanc 
+--
+OLD: illegal technology transfer
+NEW: illeg technologi transfer 
+--
+OLD: orphan drugs
+NEW: orphan drug 
+--
+OLD: R D drug prices
+NEW: R D drug price 
+--
+OLD: robotics
+NEW: robot 
+--
+OLD: mercy killing
+NEW: merci kill 
+--
+OLD: home schooling
+NEW: home school 
+--
+OLD: tourism
+NEW: tourism 
+--
+OLD: sick building syndrome
+NEW: sick build syndrom 
+--
+OLD: automobile recalls
+NEW: automobil recal 
+--
+OLD: dismantling Europe s arsenal
+NEW: dismantl Europ  arsen 
+--
+OLD: oceanographic vessels
+NEW: oceanograph vessel 
+--
+OLD: Amazon rain forest
+NEW: Amazon rain forest 
+--
+OLD: foreign minorities  Germany
+NEW: foreign minor Germani 
+--
+OLD: behavioral genetics
+NEW: behavior genet 
+--
+OLD: osteoporosis
+NEW: osteoporosi 
+--
+OLD: Ireland  peace talks
+NEW: Ireland peac talk 
+--
+OLD: cosmic events
+NEW: cosmic event 
+--
+OLD: Parkinson s disease
+NEW: Parkinson  diseas 
+--
+OLD: poaching  wildlife preserves
+NEW: poach wildlif preserv 
+--
+OLD: tropical storms
+NEW: tropic storm 
+--
+OLD: legal  Pan Am  103
+NEW: legal Pan Am 103 
+--
+OLD: Schengen agreement
+NEW: Schengen agreement 
+--
+OLD: salvaging  shipwreck  treasure
+NEW: salvag shipwreck treasur 
+--
+OLD: airport security
+NEW: airport secur 
+--
+OLD: steel production
+NEW: steel product 
+--
+OLD: Cuba  sugar  exports
+NEW: Cuba sugar export 
+--
+OLD: drugs  Golden Triangle
+NEW: drug Golden Triangl 
+--
+OLD: Three Gorges Project
+NEW: Three Gorg Project 
+--
+OLD: creativity
+NEW: creativ 
+--
+OLD: quilts  income
+NEW: quilt incom 
+--
+OLD: recycle  automobile tires
+NEW: recycl automobil tire 
+--
+OLD: carbon monoxide poisoning
+NEW: carbon monoxid poison 
+--
+OLD: industrial waste disposal
+NEW: industri wast dispos 
+--
+OLD: art  stolen  forged
+NEW: art stolen forg 
+--
+OLD: Milosevic  Mirjana Markovic
+NEW: Milosev Mirjana Markov 
+--
+OLD: suicides
+NEW: suicid 
+--
+OLD: counterfeiting money
+NEW: counterfeit monei 
+--
+OLD: law enforcement  dogs
+NEW: law enforc dog 
+--
+OLD: UV damage  eyes
+NEW: UV damag ey 
+--
+OLD: declining birth rates
+NEW: declin birth rate 
+--
+OLD: Legionnaires  disease
+NEW: Legionnair diseas 
+--
+OLD: killer bee attacks
+NEW: killer bee attack 
+--
+OLD: robotic technology
+NEW: robot technologi 
+--
+OLD: profiling  motorists  police
+NEW: profil motorist polic 
+--
+OLD: Greek  philosophy  stoicism
+NEW: Greek philosophi stoicism 
+--
+OLD: Estonia  economy
+NEW: Estonia economi 
+--
+OLD: curbing population growth
+NEW: curb popul growth 
+--
+OLD: railway accidents
+NEW: railwai accid 
+--
+OLD: deregulation  gas  electric
+NEW: deregul ga electr 
+--
+OLD: tourism  increase
+NEW: tourism increas 
+--
+OLD: inventions  scientific discoveries
+NEW: invent scientif discoveri 
+--
+OLD: child labor
+NEW: child labor 
+--
+OLD: Lyme disease
+NEW: Lyme diseas 
+--
+OLD: heroic acts
+NEW: heroic act 
+--
+OLD: U S   investment  Africa
+NEW: U S invest Africa 
+--
+OLD: supercritical fluids
+NEW: supercrit fluid 
+--
+OLD: women clergy
+NEW: women clergi 
+--
+OLD: tourists  violence
+NEW: tourist violenc 
+--
+OLD: Stirling engine
+NEW: Stirl engin 
+--
+OLD: ship losses
+NEW: ship loss 
+--
+OLD: antibiotics ineffectiveness
+NEW: antibiot ineffect 
+--
+OLD: King Hussein  peace
+NEW: King Hussein peac 

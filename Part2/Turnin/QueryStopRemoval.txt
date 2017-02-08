@@ -1,0 +1,449 @@
+OLD: International Organized Crime
+NEW: International Organized Crime 
+--
+OLD: Poliomyelitis and Post Polio
+NEW: Poliomyelitis Post Polio 
+--
+OLD: Hubble Telescope Achievements
+NEW: Hubble Telescope Achievements 
+--
+OLD: Endangered Species  Mammals
+NEW: Endangered Species Mammals 
+--
+OLD: Most Dangerous Vehicles
+NEW: Most Dangerous Vehicles 
+--
+OLD: African Civilian Deaths
+NEW: African Civilian Deaths 
+--
+OLD: New Hydroelectric Projects
+NEW: New Hydroelectric Projects 
+--
+OLD: Implant Dentistry
+NEW: Implant Dentistry 
+--
+OLD: Rap and Crime
+NEW: Rap Crime 
+--
+OLD: Radio Waves and Brain Cancer
+NEW: Radio Waves Brain Cancer 
+--
+OLD: Industrial Espionage
+NEW: Industrial Espionage 
+--
+OLD: Hydroponics
+NEW: Hydroponics 
+--
+OLD: Magnetic Levitation Maglev
+NEW: Magnetic Levitation Maglev 
+--
+OLD: Marine Vegetation
+NEW: Marine Vegetation 
+--
+OLD: Unexplained Highway Accidents
+NEW: Unexplained Highway Accidents 
+--
+OLD: Polygamy Polyandry Polygyny
+NEW: Polygamy Polyandry Polygyny 
+--
+OLD: Unsolicited Faxes
+NEW: Unsolicited Faxes 
+--
+OLD: Best Retirement Country
+NEW: Best Retirement Country 
+--
+OLD: New Fuel Sources
+NEW: New Fuel Sources 
+--
+OLD: Undersea Fiber Optic Cable
+NEW: Undersea Fiber Optic Cable 
+--
+OLD: Women in Parliaments
+NEW: Women Parliaments 
+--
+OLD: International Art Crime
+NEW: International Art Crime 
+--
+OLD: Literary Journalistic Plagiarism
+NEW: Literary Journalistic Plagiarism 
+--
+OLD: Argentine British Relations
+NEW: Argentine British Relations 
+--
+OLD: Cult Lifestyles
+NEW: Cult Lifestyles 
+--
+OLD: Ferry Sinkings
+NEW: Ferry Sinkings 
+--
+OLD: Modern Slavery
+NEW: Modern Slavery 
+--
+OLD: Pope Beatifications
+NEW: Pope Beatifications 
+--
+OLD: Mexican Air Pollution
+NEW: Mexican Air Pollution 
+--
+OLD: Iran Iraq Cooperation
+NEW: Iran Iraq Cooperation 
+--
+OLD: World Bank Criticism
+NEW: World Bank Criticism 
+--
+OLD: Income Tax Evasion
+NEW: Income Tax Evasion 
+--
+OLD: Antibiotics Bacteria Disease
+NEW: Antibiotics Bacteria Disease 
+--
+OLD: Export Controls Cryptography
+NEW: Export Controls Cryptography 
+--
+OLD: Adoptive Biological Parents
+NEW: Adoptive Biological Parents 
+--
+OLD: Black Bear Attacks
+NEW: Black Bear Attacks 
+--
+OLD: Viral Hepatitis
+NEW: Viral Hepatitis 
+--
+OLD: Risk of Aspirin
+NEW: Risk Aspirin 
+--
+OLD: Alzheimer s Drug Treatment
+NEW: Alzheimer s Drug Treatment 
+--
+OLD: Land Mine Ban
+NEW: Land Mine Ban 
+--
+OLD: Airport Security
+NEW: Airport Security 
+--
+OLD: Diplomatic Expulsion
+NEW: Diplomatic Expulsion 
+--
+OLD: Police Deaths
+NEW: Police Deaths 
+--
+OLD: Abuses of E Mail
+NEW: Abuses E Mail 
+--
+OLD: Overseas Tobacco Sales
+NEW: Overseas Tobacco Sales 
+--
+OLD: Educational Standards
+NEW: Educational Standards 
+--
+OLD: Wildlife Extinction
+NEW: Wildlife Extinction 
+--
+OLD: Agoraphobia
+NEW: Agoraphobia 
+--
+OLD: Metabolism
+NEW: Metabolism 
+--
+OLD: Health and Computer Terminals
+NEW: Health Computer Terminals 
+--
+OLD: Falkland petroleum exploration
+NEW: Falkland petroleum exploration 
+--
+OLD: British Chunnel impact
+NEW: British Chunnel impact 
+--
+OLD: Antarctica exploration
+NEW: Antarctica exploration 
+--
+OLD: journalist risks
+NEW: journalist risks 
+--
+OLD: ocean remote sensing
+NEW: ocean remote sensing 
+--
+OLD: postmenopausal estrogen Britain
+NEW: postmenopausal estrogen Britain 
+--
+OLD: territorial waters dispute
+NEW: territorial waters dispute 
+--
+OLD: blood alcohol fatalities
+NEW: blood alcohol fatalities 
+--
+OLD: mutual fund predictors
+NEW: mutual fund predictors 
+--
+OLD: drug legalization benefits
+NEW: drug legalization benefits 
+--
+OLD: clothing sweatshops
+NEW: clothing sweatshops 
+--
+OLD: human smuggling
+NEW: human smuggling 
+--
+OLD: transportation tunnel disasters
+NEW: transportation tunnel disasters 
+--
+OLD: rabies
+NEW: rabies 
+--
+OLD: El Nino
+NEW: El Nino 
+--
+OLD: commercial cyanide uses
+NEW: commercial cyanide uses 
+--
+OLD: piracy
+NEW: piracy 
+--
+OLD: in vitro fertilization
+NEW: vitro fertilization 
+--
+OLD: anorexia nervosa bulimia
+NEW: anorexia nervosa bulimia 
+--
+OLD: food drug laws
+NEW: food drug laws 
+--
+OLD: health insurance holistic
+NEW: health insurance holistic 
+--
+OLD: Native American casino
+NEW: Native American casino 
+--
+OLD: encryption equipment export
+NEW: encryption equipment export 
+--
+OLD: Nobel prize winners
+NEW: Nobel prize winners 
+--
+OLD: hydrogen energy
+NEW: hydrogen energy 
+--
+OLD: World Court
+NEW: World Court 
+--
+OLD: cigar smoking
+NEW: cigar smoking 
+--
+OLD: euro opposition
+NEW: euro opposition 
+--
+OLD: mainstreaming
+NEW: mainstreaming 
+--
+OLD: obesity medical treatment
+NEW: obesity medical treatment 
+--
+OLD: alternative medicine
+NEW: alternative medicine 
+--
+OLD: hydrogen fuel automobiles
+NEW: hydrogen fuel automobiles 
+--
+OLD: mental illness drugs
+NEW: mental illness drugs 
+--
+OLD: space station moon
+NEW: space station moon 
+--
+OLD: hybrid fuel cars
+NEW: hybrid fuel cars 
+--
+OLD: teaching disabled children
+NEW: teaching disabled children 
+--
+OLD: radioactive waste
+NEW: radioactive waste 
+--
+OLD: organic soil enhancement
+NEW: organic soil enhancement 
+--
+OLD: illegal technology transfer
+NEW: illegal technology transfer 
+--
+OLD: orphan drugs
+NEW: orphan drugs 
+--
+OLD: R D drug prices
+NEW: R D drug prices 
+--
+OLD: robotics
+NEW: robotics 
+--
+OLD: mercy killing
+NEW: mercy killing 
+--
+OLD: home schooling
+NEW: home schooling 
+--
+OLD: tourism
+NEW: tourism 
+--
+OLD: sick building syndrome
+NEW: sick building syndrome 
+--
+OLD: automobile recalls
+NEW: automobile recalls 
+--
+OLD: dismantling Europe s arsenal
+NEW: dismantling Europe s arsenal 
+--
+OLD: oceanographic vessels
+NEW: oceanographic vessels 
+--
+OLD: Amazon rain forest
+NEW: Amazon rain forest 
+--
+OLD: foreign minorities  Germany
+NEW: foreign minorities Germany 
+--
+OLD: behavioral genetics
+NEW: behavioral genetics 
+--
+OLD: osteoporosis
+NEW: osteoporosis 
+--
+OLD: Ireland  peace talks
+NEW: Ireland peace talks 
+--
+OLD: cosmic events
+NEW: cosmic events 
+--
+OLD: Parkinson s disease
+NEW: Parkinson s disease 
+--
+OLD: poaching  wildlife preserves
+NEW: poaching wildlife preserves 
+--
+OLD: tropical storms
+NEW: tropical storms 
+--
+OLD: legal  Pan Am  103
+NEW: legal Pan Am 103 
+--
+OLD: Schengen agreement
+NEW: Schengen agreement 
+--
+OLD: salvaging  shipwreck  treasure
+NEW: salvaging shipwreck treasure 
+--
+OLD: airport security
+NEW: airport security 
+--
+OLD: steel production
+NEW: steel production 
+--
+OLD: Cuba  sugar  exports
+NEW: Cuba sugar exports 
+--
+OLD: drugs  Golden Triangle
+NEW: drugs Golden Triangle 
+--
+OLD: Three Gorges Project
+NEW: Three Gorges Project 
+--
+OLD: creativity
+NEW: creativity 
+--
+OLD: quilts  income
+NEW: quilts income 
+--
+OLD: recycle  automobile tires
+NEW: recycle automobile tires 
+--
+OLD: carbon monoxide poisoning
+NEW: carbon monoxide poisoning 
+--
+OLD: industrial waste disposal
+NEW: industrial waste disposal 
+--
+OLD: art  stolen  forged
+NEW: art stolen forged 
+--
+OLD: Milosevic  Mirjana Markovic
+NEW: Milosevic Mirjana Markovic 
+--
+OLD: suicides
+NEW: suicides 
+--
+OLD: counterfeiting money
+NEW: counterfeiting money 
+--
+OLD: law enforcement  dogs
+NEW: law enforcement dogs 
+--
+OLD: UV damage  eyes
+NEW: UV damage eyes 
+--
+OLD: declining birth rates
+NEW: declining birth rates 
+--
+OLD: Legionnaires  disease
+NEW: Legionnaires disease 
+--
+OLD: killer bee attacks
+NEW: killer bee attacks 
+--
+OLD: robotic technology
+NEW: robotic technology 
+--
+OLD: profiling  motorists  police
+NEW: profiling motorists police 
+--
+OLD: Greek  philosophy  stoicism
+NEW: Greek philosophy stoicism 
+--
+OLD: Estonia  economy
+NEW: Estonia economy 
+--
+OLD: curbing population growth
+NEW: curbing population growth 
+--
+OLD: railway accidents
+NEW: railway accidents 
+--
+OLD: deregulation  gas  electric
+NEW: deregulation gas electric 
+--
+OLD: tourism  increase
+NEW: tourism increase 
+--
+OLD: inventions  scientific discoveries
+NEW: inventions scientific discoveries 
+--
+OLD: child labor
+NEW: child labor 
+--
+OLD: Lyme disease
+NEW: Lyme disease 
+--
+OLD: heroic acts
+NEW: heroic acts 
+--
+OLD: U S   investment  Africa
+NEW: U S investment Africa 
+--
+OLD: supercritical fluids
+NEW: supercritical fluids 
+--
+OLD: women clergy
+NEW: women clergy 
+--
+OLD: tourists  violence
+NEW: tourists violence 
+--
+OLD: Stirling engine
+NEW: Stirling engine 
+--
+OLD: ship losses
+NEW: ship losses 
+--
+OLD: antibiotics ineffectiveness
+NEW: antibiotics ineffectiveness 
+--
+OLD: King Hussein  peace
+NEW: King Hussein peace 
